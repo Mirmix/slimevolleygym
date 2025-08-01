@@ -1,3 +1,21 @@
+# NEAT Feedforward Implementation for Slime Volleyball
+
+Welcome! This repository contains my implementation of a NEAT (NeuroEvolution of Augmenting Topologies) Feedforward agent for the classic Slime Volleyball environment. The goal is to evolve neural network policies using NEAT to play Slime Volleyball, leveraging the original environment and extending it with neuroevolutionary methods.
+
+Below you will find the original README from the repository I forked, which provides detailed information about the Slime Volleyball Gym environment, its features, installation, and usage instructions.
+
+---
+
+## NEAT Implementation
+
+My NEAT (NeuroEvolution of Augmenting Topologies) implementation for Slime Volleyball is located in the [`neat/`](neat/) folder of this repository.  
+For details on how the NEAT algorithm works, usage instructions, and additional examples, please see the [NEAT README](neat/README.md).
+
+---
+
+
+---
+
 # Slime Volleyball Gym Environment
 
 <p align="left">

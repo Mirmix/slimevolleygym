@@ -1,0 +1,6 @@
+numpy>=1.19.0
+matplotlib>=3.3.0
+networkx>=2.5
+imageio>=2.9.0
+gym==0.19.0
+pyglet==1.5.11 
