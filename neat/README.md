@@ -19,7 +19,7 @@ This directory contains a complete implementation of the NEAT algorithm from fir
 
 > **Note:** The results against self-play are much better than the results against the baseline. This is likely due to the fact that the NEAT agents are able to learn from their own mistakes and improve their performance over time.
 
-![Best Agent vs Self-Play Network](./neat_results_baseline/best_network_gen_40.png)
+![Best Agent vs Self-Play Network](./neat_results_selfplay/best_network_gen_40.png)
 > **Observation:** The network architecture of the best agent against self-play is much more complex than the network architecture of the best agent against the baseline. This is likely due to the fact that the NEAT agents are able to learn from their own mistakes and improve their performance over time.
 
 
